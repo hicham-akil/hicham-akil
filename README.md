@@ -25,7 +25,8 @@ I’m an aspiring Moroccan web developer who enjoys turning ideas into functiona
 
 
 🌱 What I'm Working On
-I’m currently improving my web development skills by building real-world projects. My main focus is on backend development with Laravel, full-stack applications with React, and learning more about Node.js and MongoDB. I enjoy understanding how applications work behind the scenes and writing code that is clear, scalable, and easy to maintain.
+
+I’m currently improving my web development skills by building real-world projects. My focus is on developing complete web applications, strengthening my problem-solving skills, and writing clean, maintainable code. I enjoy learning through practice, exploring different technologies, and turning ideas into functional and well-structured digital solutions.
 
 📫 Connect with Me
 GitHub: https://github.com/hicham-akil/hicham-akil

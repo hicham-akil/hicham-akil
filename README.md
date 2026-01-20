@@ -1,7 +1,7 @@
 Hi, I'm Hicham Akil 👋
 Web developer
 
-I’m an aspiring Moroccan web developer who enjoys turning ideas into functional, well-structured, and user-friendly web applications. I like building projects from scratch — from understanding requirements, to designing simple systems, to writing clean and maintainable code that solves real problems.
+I’m an aspiring Moroccan web developer who enjoys turning ideas into functional, well-structured, and user-friendly web applications. I like building projects from scratch , from understanding requirements, to designing simple systems, to writing clean and maintainable code that solves real problems.
 
 🧰 Languages and Tools
 <p align="left">
